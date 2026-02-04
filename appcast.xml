@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Sore Eyes Updates</title>
+    <link>https://raw.githubusercontent.com/reeceww/soreeyes-updates/main/appcast.xml</link>
+    <description>Updates for Sore Eyes</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0</title>
+      <description><![CDATA[
+        <h2>Sore Eyes 1.0</h2>
+        <p>Initial release!</p>
+        <ul>
+          <li>20-20-20 rule timer for eye health</li>
+          <li>Beautiful animated break reminders</li>
+          <li>Customizable session and break durations</li>
+          <li>Light and dark mode support</li>
+          <li>Launch at login option</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure 
+        url="https://github.com/reeceww/soreeyes-updates/releases/download/v1.0/SoreEyes-1.0-update.zip"
+        length="7729214"
+        type="application/octet-stream"
+        sparkle:edSignature="z/MyqNEVZaLXQJswFSVlkFG4PZjpH5BpfcR/M5Fejh9QAbq2F6FnqCYPpH2GGwPJo4XXu67K4o4jddQk5PhpAQ=="
+      />
+    </item>
+  </channel>
+</rss>
